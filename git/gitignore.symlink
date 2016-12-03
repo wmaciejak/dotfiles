@@ -1,0 +1,4 @@
+.ruby-version
+.rbenv-vars*
+.npm-debug.log
+.DS_Store

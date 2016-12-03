@@ -1,0 +1,76 @@
+"*":
+  "autocomplete-plus":
+    backspaceTriggersAutocomplete: true
+    confirmCompletion: "tab"
+  autosave: {}
+  core:
+    disabledPackages: [
+      "background-tips"
+      "exception-reporting"
+      "activate-power-mode"
+      "metrics"
+      "autosave"
+      "language-c"
+      "language-clojure"
+      "language-csharp"
+      "language-go"
+      "language-java"
+      "language-objective-c"
+      "language-perl"
+      "language-php"
+      "language-python"
+      "language-toml"
+      "welcome"
+    ]
+    projectHome: "/home/wojciech/work/dev"
+    themes: [
+      "northem-dark-atom-ui"
+      "monokai"
+    ]
+  editor:
+    fontSize: 18
+    invisibles: {}
+    preferredLineLength: 100
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: false
+    softWrap: true
+    softWrapHangingIndent: 2
+  "file-icons":
+    onChanges: true
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  "git-diff": {}
+  "git-plus": {}
+  minimap:
+    absoluteMode: true
+".erb.html.text":
+  editor:
+    preferredLineLength: 100
+".html.ruby.text":
+  editor:
+    preferredLineLength: 100
+".jade.source":
+  editor:
+    preferredLineLength: 100
+".js.rails.source source.jquery.js":
+  editor:
+    preferredLineLength: 100
+".pyjade.source":
+  editor:
+    preferredLineLength: 100
+".rails.rjs.ruby.source":
+  editor:
+    preferredLineLength: 100
+".rails.ruby.source":
+  editor:
+    preferredLineLength: 100
+".ruby.source":
+  editor:
+    preferredLineLength: 100
+".slim.text":
+  editor:
+    preferredLineLength: 100
+    softWrapHangingIndent: 2
+  whitespace:
+    removeTrailingWhitespace: true
