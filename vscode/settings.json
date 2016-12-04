@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "workbench.colorTheme": "Monokai",
+  "window.zoomLevel": 1,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "editor.tabSize": 2,
+  "workbench.startupEditor": "newUntitledFile",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.renderWhitespace": "all"
+}

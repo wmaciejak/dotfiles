@@ -1,0 +1,9 @@
+[
+  {
+    title: "Project X Api"
+    paths: [
+      "/Users/wojciech/Work/dev/project-x-api"
+    ]
+    devMode: true
+  }
+]

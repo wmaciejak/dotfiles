@@ -1,1 +1,1 @@
-# Add any auto-loaded Atom code on init here.
+/Users/wojciech/Library/Mobile Documents/com~apple~CloudDocs/Mackup/.atom/init.coffee

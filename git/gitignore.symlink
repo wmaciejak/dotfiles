@@ -1,4 +1,20 @@
 .ruby-version
 .rbenv-vars*
-.npm-debug.log
+
+# Node
+npm-debug.log
+
+# Mac
 .DS_Store
+**/.DS_Store
+
+# vi
+*~
+
+# General
+log/
+*.log
+
+# etc...
+node_modules/
+backup/

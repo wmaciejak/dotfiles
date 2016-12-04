@@ -15,8 +15,8 @@
         branch = auto
         ui = true
 [core]
-	excludesfile = .DS_Store
-        editor = vim
+	excludesfile = ~/.gitignore_global
+        editor = mate --wait
 [apply]
         whitespace = nowarn
 [mergetool]
